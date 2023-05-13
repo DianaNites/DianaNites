@@ -8,7 +8,8 @@ I can be contacted at \<github username> @ gmail
 
 ## Pinned / Top repositories
 
-- [Nupe](https://github.com/DianaNites/nupe)
-- [Nuuid](https://github.com/DianaNites/nuuid)
-- [Parts](https://github.com/DianaNites/parts)
-- [linux_modules](https://github.com/DianaNites/linux_modules)
+- [Nupe](https://github.com/DianaNites/nupe) Pure Rust PE Read/Write Library
+- [Nuuid](https://github.com/DianaNites/nuuid) Uuid library for Rust
+- [Parts](https://github.com/DianaNites/parts) A GPT Partition Manager
+- [linux_modules](https://github.com/DianaNites/linux_modules) Tool To Manage Linux Kernel Modules
+
