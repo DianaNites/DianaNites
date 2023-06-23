@@ -6,6 +6,12 @@ Almost all my projects are open-source, though *please* keep in mind they are, f
 
 I can be contacted at \<github username> @ gmail
 
+# Github Sponsors
+
+[I'm on Github Sponsors!](https://github.com/sponsors/DianaNites) [https://github.com/sponsors/DianaNites](https://github.com/sponsors/DianaNites)
+
+Github private profiles currently hide sponsors and pinned projects, with no way to change or configure the behavior.
+
 ## Pinned / Top repositories
 
 - [Nupe](https://github.com/DianaNites/nupe) Pure Rust PE Read/Write Library
