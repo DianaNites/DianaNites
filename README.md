@@ -12,10 +12,4 @@ I can be contacted at \<github username> @ gmail
 
 Github private profiles currently hide sponsors and pinned projects, with no way to change or configure the behavior.
 
-## Pinned / Top repositories
-
-- [Nupe](https://github.com/DianaNites/nupe) Pure Rust PE Read/Write Library
-- [Nuuid](https://github.com/DianaNites/nuuid) Uuid library for Rust
-- [Parts](https://github.com/DianaNites/parts) A GPT Partition Manager
-- [linux_modules](https://github.com/DianaNites/linux_modules) Tool To Manage Linux Kernel Modules
 
